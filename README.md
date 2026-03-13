@@ -1,7 +1,7 @@
 # 🪑 ErgoVector: Your AI-Powered Posture Coach
 
 <div align="center">
-  <img src="https://github.com/princesinghrajput/ergoSmart/blob/main/public/screenshots/ergosmart.png?raw=true" alt="ergoSmart Logo" width="200"/>
+  <img src="https://github.com/Aadil-SA22/ErgoVector/blob/4a2d6bed5ee71c6ee46d83a824f63898c585215c/src/Designer%20(5).png" alt="ergoSmart Logo" width="200"/>
   <br>
   <em>Revolutionizing workplace ergonomics with artificial intelligence</em>
 </div>
