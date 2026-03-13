@@ -62,5 +62,5 @@ You're welcome to contribute! If you have suggestions for improvements or encoun
 ---
 
 <div align="center">
-  Made with 💙 by Amber | Empowering better posture, one sit at a time
+  Made with 💙 by Adil | Empowering better posture, one sit at a time
 </div>
