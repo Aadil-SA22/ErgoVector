@@ -4,6 +4,8 @@
   <img src="https://github.com/Aadil-SA22/ErgoVector/blob/4a2d6bed5ee71c6ee46d83a824f63898c585215c/src/Designer%20(5).png" alt="ergoSmart Logo" width="200"/>
   <br>
   <em>Revolutionizing workplace ergonomics with artificial intelligence</em>
+    <br>
+   <a href="https://github.com/Aadil-SA22/ErgoVector/blob/9794bc9202d3fb80c80cea631c20dba1145a21da/ERGO%20(1).pdf" rel="nofollow" target="_fleetbase_docs">Review Paper</a>
 </div>
 
 ---
